@@ -1,4 +1,4 @@
-# resume submiter frontend
+# resume submitter frontend
 
 ## Description
 submit and list resumes
